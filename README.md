@@ -12,7 +12,7 @@
     - ___Now, a geomonitoring website *(since 2022)*
     - ___Pager, an iOS / Android app *(since 2020)*
     - ___Man, a simple ERP website made for one company *(since 2020)*
-    - (No name), a refreshed legacy geomonitoring website *(since 2021)*
+    - Web__S, a refreshed looking legacy geomonitoring vb.net webform *(since 2021, added google map with KML, injected bootstrap and modern components))*
     - ___LineTotal LineMessenger Google Drive Backup Bot *(since 2020)*
     - GNS, a web service for providing easy access to modern third-party web APIs for VBA applications
     - Reverse engineering: Cracking .NET Framework software, using ILSpy to disable authentication for some apps or libraries
