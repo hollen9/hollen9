@@ -1,11 +1,12 @@
+![](https://streak-stats.demolab.com/?user=hollen9)
+
 - Currently heavily working on:
   - ASP.NET .NET 7 WebAPI (with redoc documentation) and React Website (with RWD).
   - Sometimes develop or maintain VB6/VBA applications mixed with .NET Framework support (COM exposed).
   - Hoping that I can create a PvE vsBot FPS game using C# on CS2 someday (still working on it).
     
-    
-- I have experience but haven't touched them for at least 3 years in developing Xamarin cross-platform apps (running on iPhone, iPad, Android devices), Unity PC games, and low poly 3D Max modeling.
   
+- I have experience but haven't touched them for at least 3 years in developing Xamarin cross-platform apps (running on iPhone, iPad, Android devices), Unity PC games, and low poly 3D Max modeling.
   
 - Things I have already made in production (simple demo apps or minor works on pre-existed apps are not included):
   - Professional Business Level
@@ -17,12 +18,15 @@
     - GNS, a web service for providing easy access to modern third-party web APIs for VBA applications
     - Reverse engineering: Cracking .NET Framework software, using ILSpy to disable authentication for some apps or libraries
       
-      
+    
   - Personal Habits
     - NetaSaba Portal *(since 2023)*
     - DiscordOogoe34 Bot *(since 2023)*
-    - Discord iNewsekai Bot *(2014-2016)*
+    - iNewBot Discord Bot*(2014-2016)*
     - Hamplitude Saysound Server *(since 2024, forked from AmplitudeSoundboard)*
+    - Userstyles and Userscripts
+      - [hollen9's Themes on Stylish | Userstyles.org](https://userstyles.org/user-profile/314935)
+      - [hollen9's Userscript on Greasyfork.org)](https://greasyfork.org/en/users/212711-hollen9)
 
 <!--
 [![Hollen9's GitHub stats](https://github-readme-stats.vercel.app/api?username=hollen9)](https://github.com/anuraghazra/github-readme-stats)
