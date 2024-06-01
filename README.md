@@ -26,6 +26,7 @@
     - Hamplitude Saysound Server *(since 2024, forked from AmplitudeSoundboard)*
     - Userstyles and Userscripts
       - [hollen9's Themes on Stylish | Userstyles.org](https://userstyles.org/user-profile/314935)
+        Styles Created: 8 | Total Installs: 7540 | Average Ratings: 3.9 | Captured on 2024-06-02
       - [hollen9's Userscript on Greasyfork.org)](https://greasyfork.org/en/users/212711-hollen9)
 
 <!--
