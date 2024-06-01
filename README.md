@@ -21,6 +21,7 @@
   - Personal Habits
     - DiscordOogoe34 Bot *(since 2023)*
     - Discord iNewsekai Bot *(2014-2016)*
+    - Hamplitude Saysound Server *(since 2024, forked from AmplitudeSoundboard)*
 
 <!--
 [![Hollen9's GitHub stats](https://github-readme-stats.vercel.app/api?username=hollen9)](https://github.com/anuraghazra/github-readme-stats)
