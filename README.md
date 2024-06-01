@@ -7,7 +7,7 @@
 - I have experience but haven't touched them for at least 3 years in developing Xamarin cross-platform apps (running on iPhone, iPad, Android devices), Unity PC games, and low poly 3D Max modeling.
   
   
-- Things I have already made in production (simple demo apps are not included):
+- Things I have already made in production (simple demo apps or minor works on pre-existed apps are not included):
   - Professional Business Level
     - ___Now, a geomonitoring website *(since 2022)*
     - ___Pager, an iOS / Android app *(since 2020)*
