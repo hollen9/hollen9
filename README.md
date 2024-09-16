@@ -3,7 +3,7 @@
 - Currently heavily working on:
   - ASP.NET .NET 7 WebAPI (with redoc documentation) and React Website (with RWD).
   - Sometimes develop or maintain VB6/VBA applications mixed with .NET Framework support (COM exposed).
-  - Hoping that I can create a PvE vsBot FPS game using C# on CS2 someday (still working on it).
+  - Modded CS2 that offer PvE vsBot gaming experience with CS#.   (wip)
     
   
 - I have experience but haven't touched them for at least 3 years in developing Xamarin cross-platform apps (running on iPhone, iPad, Android devices), Unity PC games, and low poly 3D Max modeling.
